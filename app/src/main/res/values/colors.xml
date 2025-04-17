@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ambient">#80FFFFFF</color>
+
+    <color name="cutiemark_shadow">#77000000</color>
+    <color name="cutiemark_hours">#f4c3ff</color>
+    <color name="cutiemark_minutes">#ffffff</color>
+    <color name="cutiemark_seconds">#c549ff</color>
+
+    <color name="unity_0_hours">#f4c3ff</color>
+    <color name="unity_0_seconds">#c549ff</color>
+
+    <color name="unity_1_hours">#C3C6FF</color>
+    <color name="unity_1_seconds">#4A53FF</color>
+
+    <color name="unity_2_hours">#E3C3FF</color>
+    <color name="unity_2_seconds">#AB4AFF</color>
+
+    <color name="unity_3_hours">#C3FAFF</color>
+    <color name="unity_3_seconds">#4AF0FF</color>
+
+    <color name="unity_4_hours">#FFC3D4</color>
+    <color name="unity_4_seconds">#FF4A7D</color>
+
+    <color name="unity_5_hours">#FFF9C3</color>
+    <color name="unity_5_seconds">#FFED4A</color>
+
+    <color name="unity_6_hours">#C3FFE7</color>
+    <color name="unity_6_seconds">#4AFFB7</color>
+
+    <color name="united_out_1">#1f1f1f</color>
+    <color name="united_out_2">#777777</color>
+
+    <color name="united_circle_0_0">#7e5622</color>
+    <color name="united_circle_0_1">#745848</color>
+    <color name="united_circle_1_0">#006876</color>
+    <color name="united_circle_1_1">#2e6575</color>
+    <color name="united_circle_2_0">#4f5e83</color>
+    <color name="united_circle_2_1">#336576</color>
+    <color name="united_circle_3_0">#904a4a</color>
+    <color name="united_circle_3_1">#904a4a</color>
+    <color name="united_circle_4_0">#645786</color>
+    <color name="united_circle_4_1">#5a5d74</color>
+    <color name="united_circle_5_0">#00677d</color>
+    <color name="united_circle_5_1">#00677d</color>
+    <color name="united_circle_6_0">#78535b</color>
+    <color name="united_circle_6_1">#6d5378</color>
+
+    <color name="united_text_0_0">#ffddb8</color>
+    <color name="united_text_0_1">#ffdbc8</color>
+    <color name="united_text_1_0">#9fefff</color>
+    <color name="united_text_1_1">#b4ebfe</color>
+    <color name="united_text_2_0">#d9e2ff</color>
+    <color name="united_text_2_1">#b9eafe</color>
+    <color name="united_text_3_0">#fad9ee</color>
+    <color name="united_text_3_1">#fad9ee</color>
+    <color name="united_text_4_0">#e9ddff</color>
+    <color name="united_text_4_1">#dfe1fc</color>
+    <color name="united_text_5_0">#b3ebff</color>
+    <color name="united_text_5_1">#b3ebff</color>
+    <color name="united_text_6_0">#ffdbe6</color>
+    <color name="united_text_6_1">#e9bfff</color>
+    <color name="united_ambient_0_0">#80ffddb8</color>
+    <color name="united_ambient_0_1">#80ffdbc8</color>
+    <color name="united_ambient_1_0">#809fefff</color>
+    <color name="united_ambient_1_1">#80b4ebfe</color>
+    <color name="united_ambient_2_0">#80d9e2ff</color>
+    <color name="united_ambient_2_1">#80b9eafe</color>
+    <color name="united_ambient_3_0">#80fad9ee</color>
+    <color name="united_ambient_3_1">#80fad9ee</color>
+    <color name="united_ambient_4_0">#80e9ddff</color>
+    <color name="united_ambient_4_1">#80dfe1fc</color>
+    <color name="united_ambient_5_0">#80b3ebff</color>
+    <color name="united_ambient_5_1">#80b3ebff</color>
+    <color name="united_ambient_6_0">#80ffdbe6</color>
+    <color name="united_ambient_6_1">#80e9bfff</color>
+
+    <color name="bluey_bluey_text">#BFEDFF</color>
+    <color name="bluey_bluey_ambient">#80BFEDFF</color>
+    <color name="bluey_bluey_circle">#536D78</color>
+    <color name="bluey_bingo_text">#FFD9BF</color>
+    <color name="bluey_bingo_ambient">#80FFD9BF</color>
+    <color name="bluey_bingo_circle">#786253</color>
+</resources>
